@@ -26,6 +26,6 @@ The TO-DO List Web App provides a user-friendly interface for managing tasks. It
 
 ## Files
 
-- `index.html`: Contains the HTML structure of the web application.
+- `todo.html`: Contains the HTML structure of the web application.
 - `css1.css`: Contains the CSS styles for styling the web application.
 - `todo.js`: Contains the JavaScript code for the functionality of the web application.
